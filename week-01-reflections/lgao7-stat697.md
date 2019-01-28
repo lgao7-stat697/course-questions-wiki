@@ -37,14 +37,18 @@
 * Question (lgao-stat697): If students are running out of time to complete an assignment, it is more acceptable to submite an incomplete one rather than submite an completed assignment few minutes/hours late? 
 
 
+[hello-world Week 1 SAS Recipe]
+* Question (lgao-stat697): Why do we use_null_?
+
+
+[fizz-buzz Week 1 SAS Recipe]
+* Question (lgao-stat697): What's the MOD function do?
+
+
 
 ***
 
-
-
 # Recipes Exploration Results
-
-
 
 ```
 
